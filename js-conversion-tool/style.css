@@ -1,0 +1,15 @@
+html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: white;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.form-control {
+	width: 250px;
+}
+
